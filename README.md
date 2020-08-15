@@ -14,4 +14,4 @@
   - CircleCI
   
 ### Built successfully through circleci
-![image](https://github.com/kelongchen/AroundWeb/blob/master/circleci.png)
+![image](https://github.com/kelongchen/Social/blob/master/circleci.png)
