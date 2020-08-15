@@ -17,5 +17,5 @@
   - Docker container
   - CircleCI
   
-### Built successfully through circleci
+### CI/CD through circleci
 ![image](https://github.com/kelongchen/Social/blob/master/circleci_demo.png)
