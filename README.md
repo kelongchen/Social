@@ -17,7 +17,5 @@
   - Docker container
   - CircleCI
  
-### Demo: TBD
-### website: https://socialdev.d2a3g8v0hq7xmz.amplifyapp.com/
 ### CI/CD through circleci
 ![image](https://github.com/kelongchen/Social/blob/master/circleci_demo.png)
